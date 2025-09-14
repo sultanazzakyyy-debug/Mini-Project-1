@@ -11,3 +11,5 @@ Foto dari hasil menu 1
 
 Hasil dari output menu 2
 
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/8d0b835770dbeeddd992546d576df6a8c0ffab30/2.%20Menambah%20pesawat.png)
+
