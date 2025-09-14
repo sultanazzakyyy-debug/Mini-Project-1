@@ -45,4 +45,6 @@ Hasil dari output menu 6
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/9a0d4e75e4e3f9f6ce6d8e88866396a80580c4c1/6.1%20Hasil%20dari%20scheduler%20(Arrival).png)
 
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/f236e62c64d432e7401bcf4ccb4933a298c4b5e9/6.3%20Scheduler%20(Departure).png)
+
 ![img alt](
