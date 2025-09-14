@@ -55,9 +55,13 @@ Dalam dunia nyata ATC atau Air Traffic Control, arrival (pesawat yang mendarat) 
 Runway sekarang digunakan oleh pesawat yang baru mendarat lalu di kosongkan untuk pesawat yang lepas landas
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/9a0d4e75e4e3f9f6ce6d8e88866396a80580c4c1/6.1%20Hasil%20dari%20scheduler%20(Arrival).png)
 
+Runway sekarang digunakan oleh pesawat yang baru saja lepas landas
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/f236e62c64d432e7401bcf4ccb4933a298c4b5e9/6.3%20Scheduler%20(Departure).png)
 
+Runway sekarang kosong tidak ada kegiatan apapun
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/23364387eb13b5f5516e0c6045ac96cf68ba88cb/6.4%20Hasil%20dari%20scheduler%20(Departure).png)
 
 Hasil dari output menu 7
+
+Memberhentikan program
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/80e53dd99dbd76cbb72d0be5204fb825e6b33aee/7.%20Stop%20pemrograman.png)
