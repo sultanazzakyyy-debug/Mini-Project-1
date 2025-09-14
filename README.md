@@ -33,6 +33,7 @@ Hasil dari output menu 4
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/803f5843f75a4e25c26ea953b7d8a27ff6e64fb1/4.%20Memasukkan%20pesawat%20ke%20arrival.png)
 
+Test menambahkan pesawat yang tidak ada di menu_pesawat
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/ded6c95c3946df76c167ea77ff0331c14359cda3/4.1%20Memasukkan%20nama%20pesawat%20yang%20tidak%20ada%20di%20nama_pesawat%20ke%20arrival.png)
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/27dff19dd6c9fa34063c6a80c701e6a6cc590f3b/4.2%20Memasukkan%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20arrival.png)
