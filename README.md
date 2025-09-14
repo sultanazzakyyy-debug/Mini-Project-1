@@ -33,4 +33,3 @@ Hasil dari output menu 4
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/27dff19dd6c9fa34063c6a80c701e6a6cc590f3b/4.2%20Memasukkan%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20arrival.png)
 
-![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/0482258abeb9d751e122b96198bb2962bca6fc0c/4.2%20Memasukkan%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20arrival.png)
