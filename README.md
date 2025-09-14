@@ -41,4 +41,4 @@ Hasil dari output menu 5
 
 Hasil dari output menu 6
 
-![img alt]](
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/b456eb64b4cac35bc3fda7975101a7d1d96a1fde/5.1%20Memasukka%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20departure.png)
