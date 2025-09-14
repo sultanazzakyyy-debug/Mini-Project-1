@@ -34,7 +34,7 @@ Hasil penambahan pesawat tadi muncul di menu_pesawat
 
 Hasil dari output menu 4
 
-
+Menampilkan hasil output seperti Masukkan nama pesawat yang ingin dimasukkan ke daftar arrival
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/803f5843f75a4e25c26ea953b7d8a27ff6e64fb1/4.%20Memasukkan%20pesawat%20ke%20arrival.png)
 
 Test menambahkan pesawat yang tidak ada di menu_pesawat ke arrival
