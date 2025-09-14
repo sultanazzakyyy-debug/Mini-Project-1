@@ -33,15 +33,18 @@ Hasil dari output menu 4
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/803f5843f75a4e25c26ea953b7d8a27ff6e64fb1/4.%20Memasukkan%20pesawat%20ke%20arrival.png)
 
-Test menambahkan pesawat yang tidak ada di menu_pesawat
+Test menambahkan pesawat yang tidak ada di menu_pesawat ke arrival
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/ded6c95c3946df76c167ea77ff0331c14359cda3/4.1%20Memasukkan%20nama%20pesawat%20yang%20tidak%20ada%20di%20nama_pesawat%20ke%20arrival.png)
 
+Hasil dari menambahkan pesawat ke arrival
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/27dff19dd6c9fa34063c6a80c701e6a6cc590f3b/4.2%20Memasukkan%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20arrival.png)
 
 Hasil dari output menu 5
 
+Hasil dari menambahkan pesawat yang tidak ada di menu_pesawat ke departure
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/aff1e5e7283701b4182ea98a93279e01ed79ddb7/5.%20Memasukkan%20nama%20pesawat%20yang%20tidak%20ada%20di%20nama_pesawat%20ke%20departure.png)
 
+Hasil dari menambahkan pesawat ke departure
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/b456eb64b4cac35bc3fda7975101a7d1d96a1fde/5.1%20Memasukka%20nama%20pesawat%20yang%20ada%20di%20nama_pesawat%20ke%20departure.png)
 
 Hasil dari output menu 6
