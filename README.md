@@ -17,4 +17,7 @@ Hasil dari output menu 2
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/18a1f5b66d3166f89d331a7967e6620b40d38ca1/2.2%20Hasil%20penambahan%20pesawat.png)
 
-![img alt](
+Hasil dari output menu 3
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/6c0433492df05fa3e8ba34edc63b7cd585adb8ec/3.%20Menghapus%20pesawat.png)
+
+![img alt}(
