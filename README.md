@@ -13,3 +13,5 @@ Hasil dari output menu 2
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/8d0b835770dbeeddd992546d576df6a8c0ffab30/2.%20Menambah%20pesawat.png)
 
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/eeb993f8ac6ac19f155e2346480b45ecf518e7be/2.1%20Hasil%20penambahan%20pesawat.png)
+
