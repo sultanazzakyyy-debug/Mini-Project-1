@@ -29,7 +29,7 @@ Menampilkan hasil output seperti Masukkan nama pesawat yang ingin dihapus
 Menampilkan hasil output seperti Pesawat berhasil dihapus:
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/8a6df2fe2385a9940232b49431b49a33b095334e/3.1%20Hasil%20menghapus%20pesawat.png)
 
-Hasil penambahan pesawat tadi muncul di menu_pesawat
+Hasil penambahan pesawat tadi terhapus di menu_pesawat
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/9d8090939a51fc5e1f47ee18500de82905e88308/3.2%20Hasil%20menghapus%20pesawat.png)
 
 Hasil dari output menu 4
