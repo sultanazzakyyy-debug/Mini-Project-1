@@ -7,6 +7,7 @@ Flowchart Pemrograman Lalu Lintas Pada ATC Bandara
 
 Hasil dari output menu 1
 
+Menampilkan nama nama pesawat
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/aecf847cf48fe099a5121d369ea57433d461e646/1.%20Nama-nama%20pesawat.png)
 
 Hasil dari output menu 2
