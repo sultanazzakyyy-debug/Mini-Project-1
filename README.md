@@ -16,6 +16,7 @@ Hasil dari output menu 2
 Menampilkan hasil output seperti Pesawat berhasil ditambahkan:
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/eeb993f8ac6ac19f155e2346480b45ecf518e7be/2.1%20Hasil%20penambahan%20pesawat.png)
 
+Hasil penambahan pesawat tadi muncul di menu_pesawat
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/18a1f5b66d3166f89d331a7967e6620b40d38ca1/2.2%20Hasil%20penambahan%20pesawat.png)
 
 Hasil dari output menu 3
