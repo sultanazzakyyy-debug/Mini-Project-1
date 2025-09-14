@@ -18,9 +18,15 @@ Hasil dari output menu 2
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/18a1f5b66d3166f89d331a7967e6620b40d38ca1/2.2%20Hasil%20penambahan%20pesawat.png)
 
 Hasil dari output menu 3
+
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/6c0433492df05fa3e8ba34edc63b7cd585adb8ec/3.%20Menghapus%20pesawat.png)
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/8a6df2fe2385a9940232b49431b49a33b095334e/3.1%20Hasil%20menghapus%20pesawat.png)
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/9d8090939a51fc5e1f47ee18500de82905e88308/3.2%20Hasil%20menghapus%20pesawat.png)
 
+Hasil dari output menu 4
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/803f5843f75a4e25c26ea953b7d8a27ff6e64fb1/4.%20Memasukkan%20pesawat%20ke%20arrival.png)
+
+![img alt](
