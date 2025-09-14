@@ -12,6 +12,7 @@ Menampilkan nama nama pesawat
 
 Hasil dari output menu 2
 
+Menampilkan hasil output seperti Masukkan nama pesawat yang ingin ditambahkan
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/8d0b835770dbeeddd992546d576df6a8c0ffab30/2.%20Menambah%20pesawat.png)
 
 Menampilkan hasil output seperti Pesawat berhasil ditambahkan:
@@ -22,6 +23,7 @@ Hasil penambahan pesawat tadi muncul di menu_pesawat
 
 Hasil dari output menu 3
 
+Menampilkan hasil output seperti Masukkan nama pesawat yang ingin ditambahkan
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/6c0433492df05fa3e8ba34edc63b7cd585adb8ec/3.%20Menghapus%20pesawat.png)
 
 Menampilkan hasil output seperti Pesawat berhasil dihapus:
@@ -31,6 +33,7 @@ Hasil dari menu_pesawat
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/9d8090939a51fc5e1f47ee18500de82905e88308/3.2%20Hasil%20menghapus%20pesawat.png)
 
 Hasil dari output menu 4
+
 
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-1/blob/803f5843f75a4e25c26ea953b7d8a27ff6e64fb1/4.%20Memasukkan%20pesawat%20ke%20arrival.png)
 
